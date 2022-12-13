@@ -32,8 +32,8 @@ defaults:
       path: ""
     values:
       layout: page
-staging: https://swn-staging.netlify.app
-prod: https://swn-production.netlify.app
+staging: https://staging.d1tt8rxyrs5zfe.amplifyapp.com
+prod: https://master.d1tt8rxyrs5zfe.amplifyapp.com
 plugins:
   - jekyll-feed
   - jekyll-assets
