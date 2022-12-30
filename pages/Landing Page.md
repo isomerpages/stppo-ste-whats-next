@@ -3589,7 +3589,7 @@ label.error {
 	.bp-section-pagetitle{display: none}
 </style>
 
-<section class="landing" style="background: #0037cc url(https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/grid-background.svg) no-repeat center;width: calc(100% + 208px);">
+<section class="landing" style="background: #0037cc url(https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/grid-background.svg) no-repeat center;width:100%;">
     <div class='container-fluid'>
         <div class='row'>
             <div class='col-12'>
