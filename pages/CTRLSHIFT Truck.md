@@ -132,14 +132,13 @@ description: ""
 			margin-bottom: 0;
 		}
 		.who-says {
-			display: block; 
 			font-weight: bold; 
 			font-family: "Din Black"; 
 			font-size: 2.5rem;
 			text-align: center; 
 			padding: 2.5rem; 
 			color: #0037CC;
-			line-height: ; 
+			line-height: 150%; 
 	}
 	 .container {
         display: flex;
@@ -161,7 +160,6 @@ description: ""
 			color: #0037CC;
       }
 		 .about-truck-para {
-				display: block;
 				font-weight: bold; 
 				font-family: "Din 2014"; 
 				font-size: 1rem;
