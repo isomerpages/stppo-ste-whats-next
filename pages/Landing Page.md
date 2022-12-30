@@ -3588,6 +3588,7 @@ label.error {
 	.bp-container{padding:0 !important; margin: 0}
 	.bp-section-pagetitle{display: none}
 	.language-plaintext{display: none !important}
+	.float-buttons{display: none !important}
 	.print-content{padding:0 !important; margin: 0!important; width: 100%!important}
 </style>
 
