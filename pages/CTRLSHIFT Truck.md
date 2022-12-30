@@ -132,6 +132,7 @@ description: ""
 			margin-bottom: 0;
 		}
 		.who-says {
+			display: block;
 			font-weight: bold; 
 			font-family: "Din Black"; 
 			font-size: 60px;
@@ -152,6 +153,7 @@ description: ""
         flex-basis: 50%
       }
       .about-truck-head, .challenge-head {
+			display: block;
 			font-weight: bold; 
 			font-family: "Din Black"; 
 			font-size: 2.5rem;
@@ -160,6 +162,7 @@ description: ""
 			color: #0037CC;
       }
 		 .about-truck-para, .challenge-para {
+				display: block;
 				font-weight: bold; 
 				font-family: "Din 2014"; 
 				font-size: 1rem;
