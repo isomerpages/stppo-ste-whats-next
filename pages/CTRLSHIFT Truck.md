@@ -162,7 +162,7 @@ description: ""
 		 .about-truck-para {
 				font-weight: bold; 
 				font-family: "Din 2014"; 
-				font-size: 1 rem;
+				font-size: 1rem;
 				text-align: left; 
 				padding-left: 1rem; 
 				color: #000000;
