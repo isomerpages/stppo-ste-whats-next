@@ -9,11 +9,12 @@ description: ""
 
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox" checked>
-  <label for="collapsible" class="lbl-toggle">More Info</label>
+	<label for="collapsible" class="lbl-toggle">NANYANG POLYTECHNIC</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <h4> NANYANG POLYTECHNIC </h4>
-			<p> TEST </p>
+			<p> 6 January 2023 
+			<br> 10am - 5.30pm  
+			<br> School of Engineering, Block S, Foyer </p>
     </div>
   </div>
 </div>
@@ -28,13 +29,13 @@ description: ""
 		.lbl-toggle { 
 			display: block; 
 			font-weight: bold; 
-			font-family: monospace; 
-			font-size: 1.2rem; 
+			font-family: "Din Black"; 
+			font-size: 1.5rem; 
 			text-transform: uppercase; 
 			text-align: center; 
 			padding: 1rem; 
-			color: #DDD; 
-			background: #0069ff; 
+			color: #FFFFFF; 
+			background: #75D200; 
 			cursor: pointer; 
 			border-radius: 7px; 
 			transition: all 0.25s ease-out; 
@@ -69,11 +70,21 @@ description: ""
 			border-bottom-left-radius: 0; 
 		} 
 	.collapsible-content .content-inner {
-			background: rgba(0, 105, 255, .2); 
-			border-bottom: 1px solid rgba(0, 105, 255, .45); 
-			border-bottom-left-radius: 7px; 
-			border-bottom-right-radius: 7px;
+			background: #FFFFFF; 
+			border-bottom: 1px solid #75D200; 
+			border-bottom-left-radius: 7px ; 
+			border-bottom-right-radius: 7px; 
+	    border-right: 1px solid #75D200; 
+	   border-left: 1px solid #75D200;
 			padding: .5rem 1rem; 
+			display: block; 
+			font-weight: bold; 
+			font-family: "Din 2014"; 
+			font-size: 1.2rem;  
+			text-align: left; 
+			padding: 1rem; 
+			color: #FFFFFF; 
+			background: #75D200; 
 		}
 	.collapsible-content p { 
 			margin-bottom: 0;
