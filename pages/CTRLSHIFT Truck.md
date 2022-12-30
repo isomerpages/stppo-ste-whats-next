@@ -109,7 +109,7 @@ description: ""
 			padding: .5rem 1rem; 
 			display: block; 
 			font-weight: bold; 
-			font-family: "Din 2014"; 
+			font-family: "Din Black"; 
 			font-size: 1.2rem;  
 			text-align: left; 
 			padding: 1rem; 
@@ -131,4 +131,17 @@ description: ""
 		.collapsible-content p { 
 			margin-bottom: 0;
 		}
+		.who-says {
+			font-weight: bold; 
+			font-family: "Din Black"; 
+			font-size: 2.5rem;
+			text-align: center; 
+			padding: 2.5rem; 
+			color: #0037CC;
+			line-height: 150%; 
+	}
 </style>
+
+<div class="who-says"> 
+	<p>Who says Science+Tech+Engineering has to be boring?</p>
+</div> 
