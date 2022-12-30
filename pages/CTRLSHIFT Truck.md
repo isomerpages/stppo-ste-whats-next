@@ -19,86 +19,11 @@ description: ""
   </div>
 </div>
 
-<style>
-		input[type='checkbox'] { 
-			display: none; 
-		}
-		.wrap-collabsible { 
-			margin: 1.2rem 0; 
-		} 
-		.lbl-toggle { 
-			display: block; 
-			font-weight: bold; 
-			font-family: "Din Black"; 
-			font-size: 1.5rem; 
-			text-transform: uppercase; 
-			text-align: center; 
-			padding: 1rem; 
-			color: #FFFFFF; 
-			background: #75D200; 
-			cursor: pointer; 
-			border-radius: 7px; 
-			transition: all 0.25s ease-out; 
-		} 
-		.lbl-toggle:hover { 
-			color: #FFF; 
-		} 
-		.lbl-toggle::before { 
-			content: ' '; 
-			display: inline-block; 
-			border-top: 5px solid transparent; 
-			border-bottom: 5px solid transparent;
-			border-left: 5px solid currentColor; 
-			vertical-align: middle; 
-			margin-right: .7rem; 
-			transform: translateY(-2px); 
-			transition: transform .2s ease-out; 
-		}
-		.toggle:checked+.lbl-toggle::before {
-			transform: rotate(90deg) translateX(-3px); 
-		} 
-		.collapsible-content { 
-			max-height: 0px; 
-			overflow: hidden;
-			transition: max-height .25s ease-in-out; 
-		} 
-		.toggle:checked + .lbl-toggle + .collapsible-content { 
-			max-height: 350px; 
-		} 
-		.toggle:checked+.lbl-toggle { 
-			border-bottom-right-radius: 0; 
-			border-bottom-left-radius: 0; 
-		} 
-	.collapsible-content .content-inner {
-			background: #FFFFFF; 
-			border-bottom: 1px solid #75D200; 
-			border-bottom-left-radius: 7px ; 
-			border-bottom-right-radius: 7px; 
-	    border-right: 1px solid #75D200; 
-	   border-left: 1px solid #75D200;
-			padding: .5rem 1rem; 
-			display: block; 
-			font-weight: bold; 
-			font-family: "Din 2014"; 
-			font-size: 1.2rem;  
-			text-align: left; 
-			padding: 1rem; 
-			color: #FFFFFF; 
-			background: #75D200; 
-		}
-	.collapsible-content p { 
-			margin-bottom: 0;
-		}
-	.collapsible-content h4 {
-		color: red;
-	}
-</style>
-
 <div class="wrap-collabsible">
-  <input id="collapsible" class="toggle" type="checkbox" checked>
-	<label for="collapsible" class="lbl-toggle">TEMASEK POLYTECHNIC</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
+	<input id="collapsible-2" class="toggle-2" type="checkbox" checked>
+	<label for="collapsible-2" class="lbl-toggle-2">TEMASEK POLYTECHNIC</label>
+  <div class="collapsible-content-2">
+    <div class="content-inner-2">
 			<p> 6 January 2023 
 			<br> 2 - 8.30pm
 			<br> The Plaze </p>
@@ -106,6 +31,7 @@ description: ""
   </div>
 </div>
 
+
 <style>
 		input[type='checkbox'] { 
 			display: none; 
@@ -113,7 +39,7 @@ description: ""
 		.wrap-collabsible { 
 			margin: 1.2rem 0; 
 		} 
-		.lbl-toggle { 
+		.lbl-toggle, .lbl-toggle-2 { 
 			display: block; 
 			font-weight: bold; 
 			font-family: "Din Black"; 
@@ -127,10 +53,13 @@ description: ""
 			border-radius: 7px; 
 			transition: all 0.25s ease-out; 
 		} 
-		.lbl-toggle:hover { 
+	  .lbl-toggle-2 {
+				background: #00C5E4;
+		}
+		.lbl-toggle:hover, .lbl-toggle-2:hover { 
 			color: #FFF; 
 		} 
-		.lbl-toggle::before { 
+		.lbl-toggle::before, .lbl-toggle-2::before  { 
 			content: ' '; 
 			display: inline-block; 
 			border-top: 5px solid transparent; 
@@ -141,28 +70,28 @@ description: ""
 			transform: translateY(-2px); 
 			transition: transform .2s ease-out; 
 		}
-		.toggle:checked+.lbl-toggle::before {
+		.toggle:checked + .lbl-toggle::before,  .toggle-2:checked + .lbl-toggle-2::before {
 			transform: rotate(90deg) translateX(-3px); 
 		} 
-		.collapsible-content { 
+		.collapsible-content,  .collapsible-content-2 { 
 			max-height: 0px; 
 			overflow: hidden;
 			transition: max-height .25s ease-in-out; 
 		} 
-		.toggle:checked + .lbl-toggle + .collapsible-content { 
-			max-height: 350px; 
+		.toggle:checked + .lbl-toggle + .collapsible-content,  .toggle-2:checked + .lbl-toggle-2 + .collapsible-content-2 { 
+			max-height: 350px;
 		} 
 		.toggle:checked+.lbl-toggle { 
 			border-bottom-right-radius: 0; 
 			border-bottom-left-radius: 0; 
 		} 
-	.collapsible-content .content-inner {
+		.collapsible-content .content-inner, .collapsible-content-2 .content-inner-2 {
 			background: #FFFFFF; 
 			border-bottom: 1px solid #75D200; 
 			border-bottom-left-radius: 7px ; 
 			border-bottom-right-radius: 7px; 
 	    border-right: 1px solid #75D200; 
-	   border-left: 1px solid #75D200;
+			border-left: 1px solid #75D200;
 			padding: .5rem 1rem; 
 			display: block; 
 			font-weight: bold; 
@@ -173,10 +102,13 @@ description: ""
 			color: #FFFFFF; 
 			background: #75D200; 
 		}
-	.collapsible-content p { 
+		.collapsible-content-2 .content-inner-2 {
+				border-bottom: 1px solid  #00C5E4;
+				border-right: 1px solid  #00C5E4;
+				border-left: 1px solid #00C5E4;
+				background: #00C5E4;
+		}
+		.collapsible-content p { 
 			margin-bottom: 0;
 		}
-	.collapsible-content h4 {
-		color: red;
-	}
 </style>
