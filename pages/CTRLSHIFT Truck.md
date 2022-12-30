@@ -134,11 +134,11 @@ description: ""
 		.who-says {
 			font-weight: bold; 
 			font-family: "Din Black"; 
-			font-size: 2.5rem;
+			font-size: 60px;
 			text-align: center; 
 			padding: 2.5rem; 
 			color: #0037CC;
-			line-height: 150%; 
+			line-height: 72px; 
 	}
 	 .container-truck {
         display: flex;
