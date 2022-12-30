@@ -151,9 +151,21 @@ description: ""
       .truck {
         flex-basis: 50%
       }
-      .text {
-        font-size: 20px;
-        padding-left: 20px;
+      .about-truck-head {
+			font-weight: bold; 
+			font-family: "Din Black"; 
+			font-size: 2.5rem;
+			text-align: left; 
+			padding-left: 1rem; 
+			color: #0037CC;
+      }
+		 .about-truck-para {
+				font-weight: bold; 
+				font-family: "Din 2014"; 
+				font-size: 1 rem;
+				text-align: left; 
+				padding-left: 1rem; 
+				color: #000000;
       }
 </style>
 
