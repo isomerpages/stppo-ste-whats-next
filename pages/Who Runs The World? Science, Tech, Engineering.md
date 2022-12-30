@@ -3,4 +3,4 @@ title: Who Runs The World? Science, Tech, Engineering
 permalink: /whorunstheworld-ste/
 description: ""
 ---
-![](/images/who%20runs%20the%20world.png)
+![centre](/images/who%20runs%20the%20world.png)
