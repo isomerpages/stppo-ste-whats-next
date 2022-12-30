@@ -3594,7 +3594,7 @@ label.error {
 
 <section class="landing" style="background: #0037cc url(https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/grid-background.svg) no-repeat center;width:100vw;">
     <div class='container-fluid'>
-        <div class='row'>
+        <div class='row' style="display: flex;1.  justify-content: center;">
             <div class='col-12'>
                 <div class="content-landing" style="width: 100vw">
                     <img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/logo-landing.svg" alt="logo" class="logo-landing" width="60%">
