@@ -3580,7 +3580,7 @@ label.error {
     }
 }	
 </style>
-<section class="landing">
+<section class="landing" style="background: #0037cc; background-image:url('https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/grid-background.svg') no-repeat center; position:absolute; top: 0; left: 0; width: 100vw">
     <div class='container-fluid'>
         <div class='row'>
             <div class='col-12'>
