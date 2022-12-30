@@ -3590,6 +3590,7 @@ label.error {
 	.language-plaintext{display: none !important}
 	.float-buttons{display: none !important}
 	.print-content{padding:0 !important; margin: 0!important; width: 100%!important}
+	
 </style>
 
 <section class="landing" style="background: #0037cc url(https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/grid-background.svg) no-repeat center;width:100vw;">
@@ -3597,7 +3598,7 @@ label.error {
         <div class='row' style="display: flex;1.  justify-content: center;">
             <div class='col-12'>
                 <div class="content-landing" style="width: 100vw">
-                    <img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/logo-landing.svg" alt="logo" class="logo-landing" width="60%">
+                    <img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/logo-landing.svg" alt="logo" class="logo-landing" style="display: block; margin: 0; margin-right: 130px; width: 50%">
                     <div class="desc-landing">
                         <article>
                             <p>Step into your future and take a glimpse of Singapore in the next 50 years. While we cannot be sure what exactly is to come, there is certainty that our climate will require us to adapt. What will our everyday lives look like? How will it change and how will we evolve with the times?</p>
