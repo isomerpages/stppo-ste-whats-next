@@ -31,6 +31,17 @@ description: ""
   </div>
 </div>
 
+<div class="wrap-collabsible">
+	<input id="collapsible-3" class="toggle-3" type="checkbox" checked>
+	<label for="collapsible-3" class="lbl-toggle-3">NGEE ANN POLYTECHNIC</label>
+  <div class="collapsible-content-3">
+    <div class="content-inner-3">
+			<p> 7 January 2023 
+			<br> 10am - 4pm
+			<br>The Atrium</p>
+    </div>
+  </div>
+</div>
 
 <style>
 		input[type='checkbox'] { 
@@ -39,7 +50,7 @@ description: ""
 		.wrap-collabsible { 
 			margin: 1.2rem 0; 
 		} 
-		.lbl-toggle, .lbl-toggle-2 { 
+		.lbl-toggle, .lbl-toggle-2, .lbl-toggle-3 { 
 			display: block; 
 			font-weight: bold; 
 			font-family: "Din Black"; 
@@ -55,11 +66,14 @@ description: ""
 		} 
 	  .lbl-toggle-2 {
 				background: #00C5E4;
+	}
+	   .lbl-toggle-3 {
+				background: #FFD700;
 		}
-		.lbl-toggle:hover, .lbl-toggle-2:hover { 
+		.lbl-toggle:hover, .lbl-toggle-2:hover, .lbl-toggle-3:hover { 
 			color: #FFF; 
 		} 
-		.lbl-toggle::before, .lbl-toggle-2::before  { 
+		.lbl-toggle::before, .lbl-toggle-2::before, .lbl-toggle-3::before  { 
 			content: ' '; 
 			display: inline-block; 
 			border-top: 5px solid transparent; 
@@ -70,22 +84,22 @@ description: ""
 			transform: translateY(-2px); 
 			transition: transform .2s ease-out; 
 		}
-		.toggle:checked + .lbl-toggle::before,  .toggle-2:checked + .lbl-toggle-2::before {
+		.toggle:checked + .lbl-toggle::before,  .toggle-2:checked + .lbl-toggle-2::before, .toggle-3:checked + .lbl-toggle-3::before {
 			transform: rotate(90deg) translateX(-3px); 
 		} 
-		.collapsible-content,  .collapsible-content-2 { 
+		.collapsible-content,  .collapsible-content-2, .collapsible-content-3 { 
 			max-height: 0px; 
 			overflow: hidden;
 			transition: max-height .25s ease-in-out; 
 		} 
-		.toggle:checked + .lbl-toggle + .collapsible-content,  .toggle-2:checked + .lbl-toggle-2 + .collapsible-content-2 { 
+		.toggle:checked + .lbl-toggle + .collapsible-content,  .toggle-2:checked + .lbl-toggle-2 + .collapsible-content-2, .toggle-3:checked + .lbl-toggle-3 + .collapsible-content-3 { 
 			max-height: 350px;
 		} 
 		.toggle:checked+.lbl-toggle { 
 			border-bottom-right-radius: 0; 
 			border-bottom-left-radius: 0; 
 		} 
-		.collapsible-content .content-inner, .collapsible-content-2 .content-inner-2 {
+		.collapsible-content .content-inner, .collapsible-content-2 .content-inner-2, .collapsible-content-3 .content-inner-3 {
 			background: #FFFFFF; 
 			border-bottom: 1px solid #75D200; 
 			border-bottom-left-radius: 7px ; 
@@ -107,6 +121,12 @@ description: ""
 				border-right: 1px solid  #00C5E4;
 				border-left: 1px solid #00C5E4;
 				background: #00C5E4;
+		}
+			.collapsible-content-3 .content-inner-3 {
+				border-bottom: 1px solid  #FFD700;
+				border-right: 1px solid  #FFD700;
+				border-left: 1px solid #FFD700;
+				background: #FFD700;
 		}
 		.collapsible-content p { 
 			margin-bottom: 0;
