@@ -3583,7 +3583,7 @@ label.error {
 }	
 </style>
 
-<section class="landing" style="background: #0037cc; background-image:url('https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/grid-background.svg') no-repeat center;width: calc(100% + 208px); margin-top: -172px; margin-left: -104px">
+<section class="landing" style="background: #0037cc url(https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/grid-background.svg) no-repeat center;width: calc(100% + 208px); margin-top: -172px; margin-left: -104px">
     <div class='container-fluid'>
         <div class='row'>
             <div class='col-12'>
