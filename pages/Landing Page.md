@@ -3585,8 +3585,9 @@ label.error {
 	width: 100%; margin-left: 0; padding-left: 0;padding-top: 0
 	}
 	.bp-section{padding: 0 !important}
-	.bp-container{padding:0; margin: 0}
+	.bp-container{padding:0 !important; margin: 0}
 	.bp-section-pagetitle{display: none}
+	.language-plaintext{display: none !important}
 </style>
 
 <section class="landing" style="background: #0037cc url(https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/grid-background.svg) no-repeat center;width:100vw;">
