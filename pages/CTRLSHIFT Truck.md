@@ -140,8 +140,35 @@ description: ""
 			color: #0037CC;
 			line-height: 150%; 
 	}
+	 .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+      img {
+        max-width: 100%
+      }
+      .truck {
+        flex-basis: 50%
+      }
+      .text {
+        font-size: 20px;
+        padding-left: 20px;
+      }
 </style>
 
 <div class="who-says"> 
 	<p>Who says Science+Tech+Engineering has to be boring?</p>
-</div> 
+</div>
+
+
+  <div class="container">
+      <div class="truck">
+        <img src="images/giphy.gif">
+      </div>
+      <div class="truck">
+        <p class="about-truck-head">About our CTRL+SHIFT truck</p>
+				<p class="about-truck-para"> Never seen a STE engineered truck before? 
+					<br>Now you can. Organised by the Public Sector Science & Technology Policy & Plans Office (S&TPPO) on behalf of the Public Service, CTRL+SHIFT is a rebranding campaign that aims to demystify misconceptions and shift the perspectives of students and influencers alike for the Science, Technology and Engineering (STE) courses/ careers in the public sector. </p>
+      </div>
+    </div>
