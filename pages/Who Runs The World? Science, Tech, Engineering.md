@@ -4,3 +4,6 @@ permalink: /whorunstheworld-ste/
 description: ""
 ---
 ![](/images/who%20runs%20the%20world.png)
+
+![](/images/giphy.gif)
+
