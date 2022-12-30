@@ -156,7 +156,7 @@ description: ""
 			font-family: "Din Black"; 
 			font-size: 2.5rem;
 			text-align: left; 
-			padding-left: 1rem; 
+			padding-left: 2rem; 
 			color: #0037CC;
       }
 		 .about-truck-para {
@@ -165,7 +165,7 @@ description: ""
 				font-size: 1rem;
 				line-height: 1;
 				text-align: left; 
-				padding-left: 1rem; 
+				padding-left: 2rem; 
 				color: #000000;
       }
 </style>
