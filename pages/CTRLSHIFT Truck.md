@@ -185,7 +185,7 @@ description: ""
 
   <div class="container-truck">
       <div class="truck">
-        <img src="images/truck-sample.jpg">
+        <img src="https://images.unsplash.com/photo-1600664356348-10686526af4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1475&q=80">
       </div>
       <div class="truck">
         <p class="about-truck-head">About our CTRL+SHIFT truck</p>
@@ -201,12 +201,9 @@ description: ""
 						<br> Upon completion of an online survey, students can redeem giveaways such as Bubble Tea or have their pictures taken at the Holographics photo booth by Holograil. </p>
 				</div>    
 		<div class="challenge">
-					<img src="images/truck-sample.jpg">
+					<img src="https://images.unsplash.com/photo-1600664356348-10686526af4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1475&q=80">
 				</div>
     </div>
 		
 		
-		
-<div class="challenge">
-					<img src="images/truck-sample.jpg">
-				</div>
+	
