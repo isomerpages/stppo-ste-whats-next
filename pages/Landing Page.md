@@ -3595,7 +3595,7 @@ label.error {
     <div class='container-fluid'>
         <div class='row'>
             <div class='col-12'>
-                <div class="content-landing">
+                <div class="content-landing" style="width: 100vw">
                     <img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/logo-landing.svg" alt="logo" class="logo-landing">
                     <div class="desc-landing">
                         <article>
