@@ -3590,7 +3590,7 @@ label.error {
 	.language-plaintext{display: none !important}
 	.float-buttons{display: none !important}
 	.print-content{padding:0 !important; margin: 0!important; width: 100%!important}
-	
+	.navbar{display: none}
 </style>
 
 <section class="landing" style="background: #0037cc url(https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/grid-background.svg) no-repeat center;width:100vw;">
