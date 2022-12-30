@@ -176,7 +176,7 @@ description: ""
 
   <div class="container">
       <div class="truck">
-        <img src="images/giphy.gif">
+        <img src="images/truck-sample.jpg">
       </div>
       <div class="truck">
         <p class="about-truck-head">About our CTRL+SHIFT truck</p>
