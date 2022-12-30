@@ -26,7 +26,7 @@ description: ""
     <div class="content-inner-2">
 			<p> 6 January 2023 
 			<br> 2 - 8.30pm
-			<br> The Plaze </p>
+			<br> The Plaza </p>
     </div>
   </div>
 </div>
