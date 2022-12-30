@@ -140,7 +140,7 @@ description: ""
 			color: #0037CC;
 			line-height: 150%; 
 	}
-	 .container {
+	 .container-truck {
         display: flex;
         align-items: center;
         justify-content: center
@@ -148,10 +148,10 @@ description: ""
       img {
         max-width: 100%
       }
-      .truck {
+      .truck, .challenge {
         flex-basis: 50%
       }
-      .about-truck-head {
+      .about-truck-head, .challenge-head {
 			font-weight: bold; 
 			font-family: "Din Black"; 
 			font-size: 2.5rem;
@@ -159,7 +159,7 @@ description: ""
 			padding-left: 2rem; 
 			color: #0037CC;
       }
-		 .about-truck-para {
+		 .about-truck-para, .challenge-para {
 				font-weight: bold; 
 				font-family: "Din 2014"; 
 				font-size: 1rem;
@@ -168,6 +168,11 @@ description: ""
 				padding-left: 2rem; 
 				color: #000000;
       }
+	.container-challenge {
+        display: flex;
+        align-items: center;
+        justify-content: center
+	
 </style>
 
 <div class="who-says"> 
@@ -175,7 +180,7 @@ description: ""
 </div>
 
 
-  <div class="container">
+  <div class="container-truck">
       <div class="truck">
         <img src="images/truck-sample.jpg">
       </div>
@@ -184,4 +189,15 @@ description: ""
 				<p class="about-truck-para"> Never seen a STE engineered truck before? 
 					<br>Now you can. Organised by the Public Sector Science & Technology Policy & Plans Office (S&TPPO) on behalf of the Public Service, CTRL+SHIFT is a rebranding campaign that aims to demystify misconceptions and shift the perspectives of students and influencers alike for the Science, Technology and Engineering (STE) courses/ careers in the public sector. </p>
       </div>
+    </div>
+		
+  <div class="container-challenge">
+		<div class="challenge">
+					<p class="challenge-head">Up for the challenge? Come find us.</p>
+					<p class="challenge-para"> To kickstart our campaign, we will be infiltrating the upcoming polytechnic open houses and university career fairs with our event truck.
+						<br> Upon completion of an online survey, students can redeem giveaways such as Bubble Tea or have their pictures taken at the Holographics photo booth by Holograil. </p>
+				</div>    
+		<div class="challenge">
+					<img src="images/truck-sample.jpg">
+				</div>
     </div>
