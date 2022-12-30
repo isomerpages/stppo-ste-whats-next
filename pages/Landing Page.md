@@ -3596,7 +3596,7 @@ label.error {
         <div class='row'>
             <div class='col-12'>
                 <div class="content-landing" style="width: 100vw">
-                    <img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/logo-landing.svg" alt="logo" class="logo-landing"width="60%">
+                    <img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/logo-landing.svg" alt="logo" class="logo-landing" width="60%">
                     <div class="desc-landing">
                         <article>
                             <p>Step into your future and take a glimpse of Singapore in the next 50 years. While we cannot be sure what exactly is to come, there is certainty that our climate will require us to adapt. What will our everyday lives look like? How will it change and how will we evolve with the times?</p>
