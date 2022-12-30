@@ -163,6 +163,7 @@ description: ""
 				font-weight: bold; 
 				font-family: "Din 2014"; 
 				font-size: 1rem;
+				line-height: 1;
 				text-align: left; 
 				padding-left: 1rem; 
 				color: #000000;
