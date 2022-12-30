@@ -3619,8 +3619,7 @@ label.error {
                                 </div>
                             </div>
                         </div>
-
-                        <div class="logo-footer-landing">
+<div class="logo-footer-landing">
                             <img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/logo-footer-landing.png" alt="logo footer" class="img-full">
                         </div>
                     </div>
