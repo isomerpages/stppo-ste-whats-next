@@ -14440,6 +14440,7 @@ description: ""
         .navbar{display: none}
 				#main-content .bp-container{max-width: 100vw; width: 100vw}
 	      .content .logo-landing{margin: 0;1.  max-width: 730px;margin-right: 130px;}
+				.print-content > p{display: none}
         </style>
         ```
 <section class="landing">
