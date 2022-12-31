@@ -14432,11 +14432,14 @@ description: ""
         .print-content{width: 100%; margin-left: 0; padding-left: 0;padding-top: 0}
         .bp-section{padding: 0 !important}
         .bp-container{padding:0 !important; margin: 0}
+	      footer .bp-container{padding:0 !important; margin: auto}
         .bp-section-pagetitle{display: none}
         .language-plaintext{display: none !important}
         .float-buttons{display: none !important}
         .print-content{padding:0 !important; margin: 0!important; width: 100%!important}
         .navbar{display: none}
+				#main-content .bp-container{max-width: 100vw; width: 100vw}
+	      .content .logo-landing{margin: 0;1.  max-width: 730px;margin-right: 130px;}
         </style>
         ```
 <section class="landing">
@@ -14535,35 +14538,3 @@ description: ""
             </div>
         </section>
 ```
-
-<div class="back-to-top">
-		<img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/back-to-top.svg" alt="back to top" />
-</div>
-<footer class="bg-white">
-		<div class="container">
-				<div class="row">
-						<div class="col-12">
-								<div class="content-footer">
-										<div class="copyright">
-												&copy; 2022 S&TPPO. All rights reserved.
-										</div>
-										<div class="socmed">
-												<a href="https://www.tiktok.com/@ctrlshift.sg"
-														target="_blank"
-														><img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/icon-tiktok.svg"
-																alt="tiktok"
-												/></a>
-												<a href="https://facebook.com/ctrlshift.sg"
-														target="_blank"
-														><img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/icon-fb.svg" alt="facebook"
-												/></a>
-												<a href="https://www.instagram.com/ctrlshift.sg/"
-														target="_blank"
-														><img src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/icon-ig.svg" alt="instagram"
-												/></a>
-										</div>
-								</div>
-						</div>
-				</div>
-		</div>
-</footer>
