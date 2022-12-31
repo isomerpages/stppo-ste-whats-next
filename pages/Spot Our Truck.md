@@ -14542,7 +14542,7 @@ description: ""
                                         alt="caret right green"/>
                                 </div>
                             </div>
-                            <article>
+                            <article style="display: block;">
                                 <h3>6 January 2023</h3>
                                 <h3>10am - 5.30pm</h3>
                                 <h3>School of Engineering, Block S, Foyer</h3>
@@ -14563,7 +14563,7 @@ description: ""
                                         alt="caret right"/>
                                 </div>
                             </div>
-                            <article>
+                            <article style="display: block;">
                                 <h3>6 January 2023</h3>
                                 <h3>10am - 5.30pm</h3>
                                 <h3>School of Engineering, Block S, Foyer</h3>
@@ -14584,7 +14584,7 @@ description: ""
                                         alt="caret right"/>
                                 </div>
                             </div>
-                            <article>
+                            <article style="display: block;">
                                 <h3>6 January 2023</h3>
                                 <h3>10am - 5.30pm</h3>
                                 <h3>School of Engineering, Block S, Foyer</h3>
