@@ -4,7 +4,6 @@ permalink: /landing-page/
 description: ""
 ---
 ```
-```
 <style>
             @font-face {
                 font-family: "DIN Alternate Bold";
@@ -14470,7 +14469,7 @@ description: ""
                                 <div class="button-landing">
                                     <div class="item__button-landing">
                                         <div class="item-button-truck">
-                                            <a href="truck">
+                                            <a href="/truck">
                                                 <span>
                                                     <img
                                                         src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/icon-truck.svg"
