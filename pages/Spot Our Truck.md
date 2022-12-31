@@ -14501,7 +14501,7 @@ description: ""
                 </div>
             </div>
         </div>
-				<header id="header-truck" class="header-nav-white bg-blue-grid">
+				<div id="header-truck" class="header-nav-white bg-blue-grid">
             <div class="container">
                 <div class="col-12">
                     <div class="text-center py-5">
@@ -14713,6 +14713,4 @@ description: ""
                     </div>
                 </div>
             </div>
-        </header>
-           
-       
+        </div>
