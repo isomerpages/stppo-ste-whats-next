@@ -14448,7 +14448,7 @@ description: ""
                         <img
                             src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/title-page-truck.svg"
                             alt="title page truck"
-                            class="title-page-truck"
+                            class="title-page-truck" style="width: auto"
                         />
                     </div>
                     <div class="map-truck p-relative">
