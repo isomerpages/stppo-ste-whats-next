@@ -14442,66 +14442,7 @@ description: ""
 	      .content .logo-landing{margin: 0;1.  max-width: 730px;margin-right: 130px;}
         </style>
         ```
-<nav class="nav-white wrapper-top-nav">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <ul class="top-menu">
-                            <li class="nav-white__logo">
-                                <a href="home">
-                                    <img
-                                        src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/logo-blue.svg"
-                                        alt="logo"
-                                        class="logo-nav"/>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="about">About Us</a>
-                            </li>
-                            <li class="has-submenu">
-                                <a class="parent-menu">Resources</a>
-                                <ul class="submenu">
-                                    <li>
-                                        <a href="courses">Courses</a>
-                                    </li>
-                                    <li>
-                                        <a href="careers">Careers</a>
-                                    </li>
-                                    <li>
-                                        <a href="newsroom">NEWSROOM</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="trails">Insider Experiences</a>
-                            </li>
-                            <li>
-                                <a href="contact">CONTACT US</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </nav>
-				<div class="backdrop-nav"></div>
-				<div class="hamburger">
-            <div class="inner-hamburger">
-                <a href="/">
-                    <img
-                        src="https://dstnct-dev.com/ctrl-shift/wp-content/themes/ctrlshift/img/logo-blue.svg"
-                        alt="logo"
-                        class="hamburger-logo"
-                    />
-                </a>
-                <div id="nav-icon">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-            </div>
-        </div>
-				<div id="header-truck" class="header-nav-white bg-blue-grid">
+<section id="header-truck" class="header-nav-white bg-blue-grid">
             <div class="container">
                 <div class="col-12">
                     <div class="text-center py-5">
@@ -14713,4 +14654,4 @@ description: ""
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
