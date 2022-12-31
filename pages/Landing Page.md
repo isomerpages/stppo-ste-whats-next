@@ -14433,6 +14433,7 @@ description: ""
         .bp-section{padding: 0 !important}
         .bp-container{padding:0 !important; margin: 0}
 	      footer .bp-container{padding:0 !important; margin: auto}
+				.bp-masthead .bp-container{padding:0 !important; margin: auto}
         .bp-section-pagetitle{display: none}
         .language-plaintext{display: none !important}
         .float-buttons{display: none !important}
