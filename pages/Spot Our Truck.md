@@ -14527,7 +14527,7 @@ description: ""
                                 </div>
                             </div>
                         </div>
-                        <div class="popup-truck popup-truck-1">
+                        <div class="popup-truck popup-truck-1 expanded">
                             <div class="title-popup">
                                 <h2>NANYANG POLYTECHNIC</h2>
                                 <div class="arrow-popup-truck">
@@ -14548,7 +14548,7 @@ description: ""
                                 <h3>School of Engineering, Block S, Foyer</h3>
                             </article>
                         </div>
-                        <div class="popup-truck popup-truck-2">
+                        <div class="popup-truck popup-truck-2 expanded">
                             <div class="title-popup">
                                 <h2>TEMASEK POLY</h2>
                                 <div class="arrow-popup-truck">
@@ -14569,7 +14569,7 @@ description: ""
                                 <h3>School of Engineering, Block S, Foyer</h3>
                             </article>
                         </div>
-                        <div class="popup-truck popup-truck-3">
+                        <div class="popup-truck popup-truck-3 expanded">
                             <div class="title-popup">
                                 <h2>NGEE ANN POLY</h2>
                                 <div class="arrow-popup-truck">
