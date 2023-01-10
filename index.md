@@ -4,10 +4,10 @@ title: "STE What's Next "
 permalink: /
 sections:
   - hero:
-      subtitle: Come explore the stories shaping the future of Singapore
-      background: /images/STE-bannerpage-banner1.png
-      button: view now
-      url: /stories/jtczhihui
+      subtitle: Science, Tech and Engineering is all around — why not be a part of it?
+        It’s for anyone who wants to change the world. CTRL your future. SHIFT
+        your perspectives.
+      background: /images/ISOMER_Banner.png
       key_highlights:
         - title: Ideas
           description: that become reality
@@ -21,7 +21,7 @@ sections:
         - title: Resources
           description: to find out more
           url: /resource-room/
-      title: Discover What's Next
+      title: Coming Soon.
 notification: "\n"
 description: Meet the people behind the most exciting Science, Technology and
   Engineering projects that are shaping the future of Singapore.
