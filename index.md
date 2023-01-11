@@ -7,7 +7,7 @@ sections:
       subtitle: Science, Tech and Engineering is all around — why not be a part of it?
         It’s for anyone who wants to change the world. CTRL your future. SHIFT
         your perspectives.
-      background: /images/ISOMER_Banner2.png
+      background: /images/ISOMER_Banner3.png
       key_highlights:
         - title: Ideas
           description: that become reality
