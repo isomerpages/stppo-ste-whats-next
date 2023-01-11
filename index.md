@@ -4,9 +4,8 @@ title: "STE What's Next "
 permalink: /
 sections:
   - hero:
-      subtitle: Science, Tech and Engineering is all around — why not be a part of it?
-        It’s for anyone who wants to change the world. CTRL your future. SHIFT
-        your perspectives.
+      subtitle: Science, Tech and Engineering is all around, why not be a part of it?
+        It’s for anyone who wants to change the world.
       background: /images/ISOMER_Banner3.png
       key_highlights:
         - title: Ideas
@@ -21,7 +20,7 @@ sections:
         - title: Resources
           description: to find out more
           url: /resource-room/
-      title: Coming Soon.
+      title: Just Around The Corner.
 notification: "\n"
 description: Meet the people behind the most exciting Science, Technology and
   Engineering projects that are shaping the future of Singapore.
