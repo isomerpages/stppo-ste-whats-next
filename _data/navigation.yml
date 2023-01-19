@@ -10,3 +10,5 @@ links:
     collection: stories
   - title: "STE Conference "
     url: /permalink
+  - title: test
+    url: /test
